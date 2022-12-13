@@ -1,2 +1,2 @@
 # Project exclude paths
-/employee-service/target/
+/employee-service/target/.envrc
